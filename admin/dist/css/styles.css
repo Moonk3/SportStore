@@ -1,0 +1,12 @@
+.btn-logout {
+  color: rgb(136, 202, 37);
+}
+.btn-logout:hover {
+  color: greenyellow;
+}
+.box {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
